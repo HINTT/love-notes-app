@@ -285,15 +285,5 @@ With all my heart ❤️`
     message: `My dearest love,
 
 this is a tester message`
-  },
-  // Empty slots for future messages (16-50)
-  ...Array.from({ length: 35 }, (_, i) => ({
-    id: String(i + 16),
-    occasion: "Coming Soon",
-    title: `Message ${i + 16}`,
-    emoji: "💌",
-    message: `This message slot is waiting for your special words...
-
-Tap here to remind your love to write a new message for you!`
-  }))
+  }
 ];
