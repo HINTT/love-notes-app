@@ -27,9 +27,10 @@ Forever yours ❤️`
   },
   {
     id: "2",
-    occasion: "Birthday",
+    occasion: "March 19",
     title: "Happy Birthday, My Love",
     emoji: "🎂",
+    date: "March 19",
     message: `Happy Birthday, my beautiful one!
 
 Today is one of my favorite days of the year because it's the day the world was blessed with you. Every candle on your cake represents another year of your amazing light shining in this world.
@@ -112,11 +113,155 @@ Sleep tight, my angel. I'll be dreaming of you.
 
 Sweet dreams and endless love ❤️`
   },
-  // Empty slots for future messages (7-50)
-  ...Array.from({ length: 44 }, (_, i) => ({
-    id: String(i + 7),
+  {
+    id: "7",
+    occasion: "January 6",
+    title: "Happy 6th, My Love",
+    emoji: "❄️",
+    date: "January 6",
+    message: `My darling,
+
+It's the 6th of January, and I just wanted to remind you how much you mean to me. A new year has begun, and I'm so excited to spend every moment of it with you.
+
+You make my winters warmer, my days brighter, and my heart fuller. Thank you for being my person.
+
+Here's to all the adventures this year will bring us!
+
+I love you always ❤️`
+  },
+  {
+    id: "8",
+    occasion: "My Birthday",
+    title: "From Me on My Birthday",
+    emoji: "🎉",
+    date: "January",
+    message: `My love,
+
+Today is my birthday, but the greatest gift I've ever received is you. Having you in my life makes every day feel like a celebration.
+
+Thank you for loving me, for making me laugh, and for being my everything. I couldn't ask for a better partner to grow older with.
+
+Here's to celebrating together!
+
+All my love on this special day ❤️`
+  },
+  {
+    id: "9",
+    occasion: "February 6",
+    title: "Happy 6th, Beautiful",
+    emoji: "💝",
+    date: "February 6",
+    message: `My sweetheart,
+
+February is here, the month of love, and I can't help but think about how lucky I am to have you.
+
+Every day with you feels like Valentine's Day. You fill my life with so much love and joy.
+
+I love you more with each passing day.
+
+Forever yours ❤️`
+  },
+  {
+    id: "10",
+    occasion: "Valentine's Day",
+    title: "Happy Valentine's Day",
+    emoji: "💘",
+    date: "February 14",
+    message: `My one and only Valentine,
+
+Happy Valentine's Day, my love! Today is a day dedicated to love, and there's no one I'd rather spend it with than you.
+
+You are my heart, my soul, my everything. Every love song makes sense because of you. Every romantic movie reminds me of us.
+
+Thank you for being my Valentine, today and every day.
+
+I love you with all my heart ❤️`
+  },
+  {
+    id: "11",
+    occasion: "March 6",
+    title: "Happy 6th, My Heart",
+    emoji: "🌸",
+    date: "March 6",
+    message: `My beautiful love,
+
+Spring is almost here, and just like the flowers that bloom, my love for you continues to grow and blossom.
+
+You bring color to my world and warmth to my heart. I'm so grateful for you.
+
+Can't wait to see you!
+
+Loving you always ❤️`
+  },
+  {
+    id: "12",
+    occasion: "April 6",
+    title: "Happy 6th, Sunshine",
+    emoji: "🌷",
+    date: "April 6",
+    message: `My darling,
+
+April showers bring May flowers, but you bring sunshine into my life every single day.
+
+I hope this message finds you smiling. Know that wherever you are, my heart is with you.
+
+I love you endlessly ❤️`
+  },
+  {
+    id: "13",
+    occasion: "May 6",
+    title: "Happy 6th, My Love",
+    emoji: "🌺",
+    date: "May 6",
+    message: `My sweet love,
+
+The world is in full bloom, and so is my love for you. Each day I fall more in love with you.
+
+You make everything more beautiful just by being you.
+
+I'm so lucky to be yours.
+
+With all my love ❤️`
+  },
+  {
+    id: "14",
+    occasion: "June 6",
+    title: "Happy 6th, Beautiful",
+    emoji: "☀️",
+    date: "June 6",
+    message: `My sunshine,
+
+Summer is here, and I can't wait for all the adventures we'll have together. Long days, warm nights, and endless love.
+
+You are my favorite person to do nothing with and everything with.
+
+Here's to summer love!
+
+I adore you ❤️`
+  },
+  {
+    id: "15",
+    occasion: "Christmas",
+    title: "Merry Christmas, My Love",
+    emoji: "🎄",
+    date: "December 25",
+    message: `My dearest love,
+
+Merry Christmas! This is the most wonderful time of the year, and it's even more magical because I get to spend it with you.
+
+You are the greatest gift I could ever ask for. Your love, your laughter, your presence in my life - these are the things I treasure most.
+
+May this Christmas be filled with warmth, joy, and all the love in the world.
+
+Merry Christmas, my love. You are my forever gift.
+
+With all my heart ❤️`
+  },
+  // Empty slots for future messages (16-50)
+  ...Array.from({ length: 35 }, (_, i) => ({
+    id: String(i + 16),
     occasion: "Coming Soon",
-    title: `Message ${i + 7}`,
+    title: `Message ${i + 16}`,
     emoji: "💌",
     message: `This message slot is waiting for your special words...
 
