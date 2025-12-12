@@ -41,10 +41,10 @@ const Index = () => {
           </div>
           
           <h1 className="text-4xl md:text-5xl font-serif font-semibold text-foreground mb-3 animate-fade-in-up">
-            My Love Letters
+            Read me when you need me (my version ofc)
           </h1>
           <p className="text-lg text-muted-foreground font-sans max-w-lg mx-auto animate-fade-in-up" style={{ animationDelay: "100ms" }}>
-            For you, my darling. Swipe to discover your messages.
+            Not as cool as yours but my darling. Swipe to discover your messages also swipe down the spotify is at the bottom.
           </p>
           
           {/* Swipe hint */}
