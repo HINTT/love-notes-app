@@ -33,15 +33,8 @@ Forever yours ❤️`
     date: "March 19",
     message: `Happy Birthday, my beautiful one!
 
-Today is one of my favorite days of the year because it's the day the world was blessed with you. Every candle on your cake represents another year of your amazing light shining in this world.
-
-I'm so grateful that I get to be the one who loves you, who celebrates you, and who gets to witness all the beautiful moments of your life.
-
-May this year bring you all the happiness, love, and dreams your heart can hold. You deserve the universe and more.
-
-Happy Birthday, my love. Here's to many more together.
-
-With all my love ❤️`
+Today is one of my favorite days of the year because it's the day the world was blessed with you. If I could, I’d be spoiling you all day and making you feel like the queen you are. You really changed my life in ways I didn’t even expect. You deserve everything good.
+How’s your birthday going though? Did you smile? Did you do something fun? I hope today felt special for you, because you’re special to me every day.`
   },
   {
     id: "3",
@@ -169,13 +162,8 @@ Forever yours ❤️`
     date: "February 14",
     message: `My one and only Valentine,
 
-Happy Valentine's Day, my love! Today is a day dedicated to love, and there's no one I'd rather spend it with than you.
-
-You are my heart, my soul, my everything. Every love song makes sense because of you. Every romantic movie reminds me of us.
-
-Thank you for being my Valentine, today and every day.
-
-I love you with all my heart ❤️`
+Happy Valentine’s Day baby ❤️. You really the person who got my heart for real. Even in here, it’s like your love still reaches me. You make everything lighter just by existing in my life.
+But how’s your day been? You feeling okay? I hope you felt loved today, because you deserve to feel that every single day — not just on Valentine’s.`
   },
   {
     id: "11",
@@ -259,31 +247,474 @@ With all my heart ❤️`
   },
   {
     id: "16",
-    occasion: "Christmas",
-    title: "Merry Christmas, My Love",
-    emoji: "🎄",
-    date: "December 25",
-    message: `My dearest love,
+    occasion: "Emotion",
+    title: "How are you feeling",
+    emoji: "",
+    date: "December 22",
+    message: `My love,
 
-Merry Christmas! This is the most wonderful time of the year, and it's even more magical because I get to spend it with you.
-
-You are the greatest gift I could ever ask for. Your love, your laughter, your presence in my life - these are the things I treasure most.
-
-May this Christmas be filled with warmth, joy, and all the love in the world.
-
-Merry Christmas, my love. You are my forever gift.
-
-With all my heart ❤️`
+I love you more than I can even put into words. The way you stick by me means everything.
+How’s your week going so far? Anything stressing you? You can always tell me.`
   },
 
   {
     id: "17",
-    occasion: "Tester",
-    title: "Tester message",
-    emoji: "🎄",
-    date: "testers date",
-    message: `My dearest love,
+    occasion: "Missing you",
+    title: "Cant wait to get out",
+    emoji: "🏠",
+    date: "April 12",
+    message: `My Wifey,
 
-this is a tester message`
-  }
+I can’t wait for June 10. I keep counting down in my head because all I want is to be home with you. ‘Storms end but we stay standing.’
+How you been feeling lately though? You holding up alright? I think about you nonstop.`
+  },
+
+  {
+  id: "18",
+  occasion: "New Years",
+  title: "Happy New Year My Love",
+  emoji: "🎆",
+  date: "January 1",
+  message: `My dearest love,
+
+Happy New Year baby. It feels different this time… not in a bad way, but in a way where I know everything we doing now is building toward something real. Even from in here, I feel you next to me. Your love been keeping me steady, keeping me focused, keeping me believing I got something worth fighting for.
+
+I just want this year to bring you peace, success, and happiness. I hope your heart stays light and your mind stays calm. I hope God blesses everything you touch. And I want you to know I’m working on myself every single day, so when I come home, I can give you the version of me you deserve.
+
+How’s your day been though? I hope you started your year with a smile, and I hope you felt loved today. You mean everything to me, baby. Thank you for sticking with me, for believing in me, and for loving me the way you do.
+
+This year is ours. I love you more than words can explain.`
+},
+  {
+    id: "19",
+    occasion: "strengthen",
+    title: "You make me strong",
+    emoji: "🎄",
+    date: "Feburay 19",
+    message: `Hey baby,
+
+Baby, I been thinking about you nonstop today. You really the reason I keep pushing and not letting this place break me. I want us to have the life we talked about.
+How’s your day been? You doing okay mentally? I hope you had a calm day and not too much stress.`
+  },
+  {
+    id: "20",
+    occasion: "Release",
+    title: "Release Day",
+    emoji: "🎄",
+    date: "June 10th",
+    message: `Im coming home,
+
+Baby… today’s the day. I’m finally coming home, and all I can think about is you. All the nights I missed you, all the conversations we couldn’t have, all the moments we lost — I’m ready to make all of that up to you. “Storms end, but the strong stay standing.”
+How you feeling today? You excited? Nervous? Happy? I hope you’re ready for me because I’m ready to love you the right way on the outside.`
+  },
+  {
+    id: "21",
+    occasion: "Daily",
+    title: "Thinking About You",
+    emoji: "💭",
+    date: "Any day",
+    message: `Baby, I miss you so much. I’ve been thinking about you nonstop today. Sometimes I sit back and imagine you next to me and it makes things feel a little easier in here.
+
+How was your day though? Anything new happen? I hope you’re doing okay mentally and emotionally. I wanna hear everything.`
+},
+{
+    id: "22",
+    occasion: "Daily",
+    title: "Thank You For Staying",
+    emoji: "❤️",
+    date: "Any day",
+    message: `Baby, thank you for sticking by me through all of this. A lot of people would’ve dipped but you stayed real and loyal and I don’t take that for granted. Real love don’t fold and what we got is real.
+
+How’s your heart today though? You feeling okay? I hope life ain’t overwhelming you too much. I’m always here for you.`
+},
+{
+    id: "23",
+    occasion: "Daily",
+    title: "Motivation",
+    emoji: "💪",
+    date: "Any day",
+    message: `You motivate me more than you know. Every day I wake up like “I gotta be better for her.” You make me wanna grow and level up mentally.
+
+How’s your week been going? You doing alright? I hope nothing been stressing you out too much.`
+},
+{
+    id: "24",
+    occasion: "Daily",
+    title: "You Inspire Me",
+    emoji: "✨",
+    date: "Any day",
+    message: `You’re the strongest person I know baby. The way you handle life and keep pushing inspires me to do better. You don’t even see how powerful you are.
+
+How you feeling today though? Be honest with me. You okay mentally?`
+},
+{
+    id: "25",
+    occasion: "Daily",
+    title: "Thinking About Our Future",
+    emoji: "🏡",
+    date: "Any day",
+    message: `I keep thinking about our future, our place, our late-night talks, and everything we’re gonna build together. That keeps me going in here.
+
+How you been today? You okay? I hope something made you smile.`
+},
+{
+    id: "26",
+    occasion: "Daily",
+    title: "Proud of Us",
+    emoji: "🌹",
+    date: "Any day",
+    message: `Baby, I’m proud of how far we’ve come. Even with everything going on, our bond stayed strong and real. That means everything to me.
+
+How’s your day moving? Slow? Stressful? Chill? I hope it’s been good to you.`
+},
+{
+    id: "27",
+    occasion: "Daily",
+    title: "Missing You",
+    emoji: "🖤",
+    date: "Any day",
+    message: `I miss your voice so much. Sometimes I replay it in my head just to feel close to you again. You don’t know how much that helps me.
+
+What you doing right now? You relaxing? Working? I hope today hasn’t been too hard on you.`
+},
+{
+    id: "28",
+    occasion: "Daily",
+    title: "Imagining Home",
+    emoji: "🏠",
+    date: "Any day",
+    message: `Every day I imagine the first hug I’m gonna give you when I get out. That moment lives in my head and keeps me pushing forward.
+
+How’s your night going baby? You good mentally and physically?`
+},
+{
+    id: "29",
+    occasion: "Daily",
+    title: "You’re My Peace",
+    emoji: "🕊️",
+    date: "Any day",
+    message: `You’re my peace in a place that got none. Just thinking about you calms me down even when everything around me feels heavy.
+
+How’s your day been so far? Anything good happen? I hope something did.`
+},
+{
+    id: "30",
+    occasion: "Daily",
+    title: "Becoming Better",
+    emoji: "🌱",
+    date: "Any day",
+    message: `I’m trying every day to be the man you can be proud of. I’m learning, growing, and changing because you deserve that version of me.
+
+How you feeling today? Anything on your mind? Talk to me baby.`
+},
+{
+    id: "31",
+    occasion: "Daily",
+    title: "Our Future",
+    emoji: "🔮",
+    date: "Any day",
+    message: `I think about our future a lot — the laughs, the quiet nights, the goals we gon reach together. That vision keeps me strong.
+
+How’s your week going? You doing okay? I hope you’re staying positive.`
+},
+{
+    id: "32",
+    occasion: "Daily",
+    title: "You Deserve Everything",
+    emoji: "💖",
+    date: "Any day",
+    message: `You deserve the world baby. And even if I can’t give you everything right now, I’m gonna spend my life trying. That’s a promise.
+
+How you been today? You feeling good? I really hope you are.`
+},
+{
+    id: "33",
+    occasion: "Daily",
+    title: "Your Strength",
+    emoji: "🌟",
+    date: "Any day",
+    message: `Your love and strength got me through days I didn’t wanna think. You’re stronger than you realize, and I admire that so much.
+
+How was your day though? You eat? You get any rest? Take care of yourself for me.`
+},
+{
+    id: "34",
+    occasion: "Daily",
+    title: "Learning Myself",
+    emoji: "📖",
+    date: "Any day",
+    message: `I’ve been learning a lot about myself in here, and one thing I know for sure is that I can’t lose you. You’re too real, too rare.
+
+How you doing today baby? You okay mentally and emotionally?`
+},
+{
+    id: "35",
+    occasion: "Daily",
+    title: "Your Night",
+    emoji: "🌙",
+    date: "Any day",
+    message: `You really the type of woman a man grows up for. I can feel myself maturing mentally because of you.
+
+How’s your night going? You relaxing? I hope you’re not overthinking anything.`
+},
+{
+    id: "36",
+    occasion: "Daily",
+    title: "You Keep Me Going",
+    emoji: "🔥",
+    date: "Any day",
+    message: `Even on my hardest days, thinking of you gives me the strength to push through. You’re my motivation in ways you don’t even see.
+
+How’s your morning going? I hope you woke up feeling calm.`
+},
+{
+    id: "37",
+    occasion: "Daily",
+    title: "Dreaming of Us",
+    emoji: "💭",
+    date: "Any day",
+    message: `I can’t wait to take you out again, hold your hand, laugh with you, and just be normal. I dream about that every day.
+
+How was your day today? Long? Tiring? I wanna hear all of it.`
+},
+{
+    id: "38",
+    occasion: "Daily",
+    title: "You’re Rare",
+    emoji: "💎",
+    date: "Any day",
+    message: `You’re such a good woman. Loyal, loving, patient — that type of heart is rare, and I’m blessed to have you.
+
+How you feeling today? Anything bothering you? I’m here for you.`
+},
+{
+    id: "39",
+    occasion: "Daily",
+    title: "Your Heart",
+    emoji: "❤️‍🔥",
+    date: "Any day",
+    message: `Thank you for loving me even when I didn’t always love myself right. That kind of love doesn’t come around often.
+
+How’s your heart today? You feeling okay? I hope you’re not carrying too much.`
+},
+{
+    id: "40",
+    occasion: "Daily",
+    title: "A Chapter, Not the Story",
+    emoji: "📘",
+    date: "Any day",
+    message: `This is just a chapter baby, not our whole story. We got so many better days ahead of us.
+
+How’s your week going? You staying positive? I’m always rooting for you.`
+},
+{
+    id: "41",
+    occasion: "Daily",
+    title: "Your Smile",
+    emoji: "😊",
+    date: "Any day",
+    message: `I be thinking about your smile randomly and it just hits me how much I love you. You really everything to me.
+
+How did today treat you? Good? Bad? I wanna know every detail.`
+},
+{
+    id: "42",
+    occasion: "Daily",
+    title: "Good Morning",
+    emoji: "🌅",
+    date: "Any day",
+    message: `Good morning baby. I hope you woke up feeling rested and ready for the day. You deserve peace today and every day.
+
+How’s your morning starting? You okay?`
+},
+{
+    id: "43",
+    occasion: "Daily",
+    title: "Forever Love",
+    emoji: "∞",
+    date: "Any day",
+    message: `You’re my forever type of love. The one that sticks, the one that don’t fade no matter what’s going on.
+
+How’s life been treating you these past few days? You holding up alright?`
+},
+{
+    id: "44",
+    occasion: "Daily",
+    title: "Not Giving Up",
+    emoji: "🤍",
+    date: "Any day",
+    message: `I love how you don’t give up on me. That loyalty means more than I can ever explain. I swear I’m gonna make it worth it.
+
+How’s your day been? Anything stressing you?`
+},
+{
+    id: "45",
+    occasion: "Daily",
+    title: "You’re Beautiful",
+    emoji: "🌸",
+    date: "Any day",
+    message: `You’re beautiful inside and out baby. Anyone could see that. I hope you recognize how amazing you truly are.
+
+How you feeling today though? You sleep okay?`
+},
+{
+    id: "46",
+    occasion: "Daily",
+    title: "Consistency",
+    emoji: "🔗",
+    date: "Any day",
+    message: `I can’t wait to give you real consistency and effort when I’m out. You deserve a man who shows up every day.
+
+How your week going? You doing okay? I hope so.`
+},
+{
+    id: "47",
+    occasion: "Daily",
+    title: "Memories",
+    emoji: "🖼️",
+    date: "January 28th",
+    message: `I replay our memories in my head all the time. It helps me feel close to you even while I’m in here.
+
+How you been lately? Any good moments this week?`
+},
+{
+    id: "48",
+    occasion: "Daily",
+    title: "I’m Here",
+    emoji: "🫂",
+    date: "JUNE 1",
+    message: `I’m here for you even from here. Whatever you’re going through, you’re not alone. You got me always.
+
+How’s your day going baby? You okay mentally?`
+},
+{
+    id: "49",
+    occasion: "Daily",
+    title: "Stronger Than Distance",
+    emoji: "🌍",
+    date: "April 18",
+    message: `Our love bigger than time, distance, or anything life throws at us. We built different. We stronger than all this.
+
+How you feeling today? You staying positive?`
+},
+{
+    id: "50",
+    occasion: "Daily",
+    title: "Grateful for You",
+    emoji: "🙏",
+    date: "May the 4th be with you",
+    message: `I’m grateful for you every single day. The way you love me, the way you support me, it means everything.
+
+How’s your night going my love? You calm?`
+},
+{
+    id: "51",
+    occasion: "Daily",
+    title: "You Deserve Love",
+    emoji: "💘",
+    date: "May 10",
+    message: `You deserve to feel loved, supported, and wanted every day. And I’m always gonna make sure you feel that.
+
+How was today for you? Smooth? Rough? Tell me.`
+},
+{
+    id: "52",
+    occasion: "Daily",
+    title: "My Heart",
+    emoji: "💓",
+    date: "March 27",
+    message: `No matter how far apart we are, my heart don’t change. You got me in a way nobody else ever has.
+
+How are you today baby? You eat something good?`
+},
+{
+    id: "53",
+    occasion: "Daily",
+    title: "Growing for Us",
+    emoji: "🌿",
+    date: "March 23",
+    message: `I’m growing a lot in here, and I’m doing it with you in mind. You deserve a better, wiser version of me.
+
+How’s your day been? You okay emotionally?`
+},
+{
+    id: "54",
+    occasion: "Daily",
+    title: "Soulmate Energy",
+    emoji: "💞",
+    date: "April 24",
+    message: `I swear you my soulmate. No one ever made me feel the way you do. You’re really the one for me.
+
+How’s life been treating you lately? Anything new happen?`
+},
+{
+    id: "55",
+    occasion: "Daily",
+    title: "My Peace",
+    emoji: "🌤️",
+    date: "april 1",
+    message: `You’re more than my girl — you’re my peace, my softness, my motivation. You keep me grounded.
+
+How’s your week going so far? You good?`
+},
+{
+    id: "56",
+    occasion: "Daily",
+    title: "Feeling Close",
+    emoji: "🌬️",
+    date: "December 27",
+    message: `I replay your voice and your smile in my head just to feel close to you. It helps more than you know.
+
+How’s your morning? You wake up okay?`
+},
+{
+    id: "57",
+    occasion: "Daily",
+    title: "A Better Me",
+    emoji: "🔥",
+    date: "January 25",
+    message: `I’m coming home better, wiser, and more focused on us. You changed me in ways I didn’t expect.
+
+How are you today? You handling everything alright baby?`
+},
+{
+    id: "58",
+    occasion: "Daily",
+    title: "Always With You",
+    emoji: "💫",
+    date: "Febuary 11",
+    message: `No matter what happens, I’m rocking with you forever. You stuck with me in the best way.
+
+How your day been moving? Fast? Slow? Stressful?`
+},
+{
+    id: "59",
+    occasion: "Daily",
+    title: "Take Care of You",
+    emoji: "🩷",
+    date: "Febuary 15",
+    message: `I hope you’re taking care of your heart, baby. You mean so much to me and I never want you hurting alone.
+
+How are you tonight? You doing okay mentally?`
+},
+{
+    id: "60",
+    occasion: "Daily",
+    title: "Thinking of You",
+    emoji: "🧡",
+    date: "January 21",
+    message: `You the first thing I think about in the morning and the last thing at night. You really got my whole heart.
+
+How’s your day going so far? I hope it’s treating you good.`
+},
+{
+    id: "61",
+    occasion: "Daily",
+    title: "Our Story",
+    emoji: "📖",
+    date: "March 24",
+    message: `I love you more than yesterday and less than tomorrow. Our story far from over, baby. We still got so much to write together.
+
+How you feeling today? Tell me what’s been on your mind.`
+},
 ];
