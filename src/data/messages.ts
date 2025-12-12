@@ -257,6 +257,24 @@ Merry Christmas, my love. You are my forever gift.
 
 With all my heart ❤️`
   },
+  {
+    id: "16",
+    occasion: "Christmas",
+    title: "Merry Christmas, My Love",
+    emoji: "🎄",
+    date: "December 25",
+    message: `My dearest love,
+
+Merry Christmas! This is the most wonderful time of the year, and it's even more magical because I get to spend it with you.
+
+You are the greatest gift I could ever ask for. Your love, your laughter, your presence in my life - these are the things I treasure most.
+
+May this Christmas be filled with warmth, joy, and all the love in the world.
+
+Merry Christmas, my love. You are my forever gift.
+
+With all my heart ❤️`
+  },
   // Empty slots for future messages (16-50)
   ...Array.from({ length: 35 }, (_, i) => ({
     id: String(i + 16),
