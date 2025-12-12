@@ -8,11 +8,12 @@ interface MessageCardProps {
 }
 
 const MessageCard = ({ message, onClick, index }: MessageCardProps) => {
+  const isPlaceholder = message.occasion === "Coming Soon";
+  
   return (
     <button
       onClick={onClick}
-      className="group relative w-full text-left bg-card rounded-2xl p-6 shadow-card hover:shadow-glow transition-all duration-500 transform hover:-translate-y-1 animate-fade-in-up border border-border/50"
-      style={{ animationDelay: `${index * 100}ms` }}
+      className={`group relative w-full h-full min-h-[220px] text-left bg-card rounded-2xl p-5 shadow-card hover:shadow-glow transition-all duration-500 transform hover:-translate-y-1 border border-border/50 ${isPlaceholder ? 'opacity-60' : ''}`}
     >
       {/* Decorative corner */}
       <div className="absolute top-0 right-0 w-16 h-16 overflow-hidden rounded-tr-2xl">

@@ -111,5 +111,15 @@ Thank you for being you. Thank you for every moment, every smile, every laugh. Y
 Sleep tight, my angel. I'll be dreaming of you.
 
 Sweet dreams and endless love ❤️`
-  }
+  },
+  // Empty slots for future messages (7-50)
+  ...Array.from({ length: 44 }, (_, i) => ({
+    id: String(i + 7),
+    occasion: "Coming Soon",
+    title: `Message ${i + 7}`,
+    emoji: "💌",
+    message: `This message slot is waiting for your special words...
+
+Tap here to remind your love to write a new message for you!`
+  }))
 ];
