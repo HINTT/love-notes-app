@@ -26,6 +26,24 @@ I love you more than words could ever express.
 Forever yours ❤️`
   },
   {
+    id: "5",
+  occasion: "Love Message",
+  title: "Imma be missing you",
+  emoji: "🌍",
+  date: "Decmeber 12",
+  message: `My love,
+
+These next six months are going to be the hardest thing I’ve ever had to face, not because of the time itself, but because I’ll be away from you. I’m going to miss your voice, your smile, your meaness, and the way you make everything 
+around me feel lighter. I know this situation isn’t easy, and I hate that I’m putting distance between us, but I want you to know that you are the biggest thing on my mind and the deepest piece of my heart. I’m going to miss our late-night 
+talks, our laughter, the way you make me feel, and even the little moments we don’t realize are special until they’re gonna be placed on pause a bit. You give me strength, and thinking about you is what’s going to carry me through each day. 
+I’m going to miss you more than words can ever say, but I’m holding onto the love we built and the future we still have. This isn’t the end — it’s just a painful chapter I have to get through so I can come back to you better, stronger, and ready to 
+make everything right. I love you deeply, and I’ll be counting down every day until I’m back in your arms.
+
+Sincerely,
+Your awesome amazing boyfriend 
+Trevor Makau`
+  },
+  {
     id: "2",
     occasion: "March 19",
     title: "Happy Birthday, My Love",
@@ -788,23 +806,6 @@ I just want you to know how much you mean to me. You really changed my life with
 
 How’s everything been with you lately? You okay? I hope life been a little easier on you these days. I love you more than you know.`
 },
-  {
-    id: "5",
-  occasion: "Love Message",
-  title: "Imma be missing you",
-  emoji: "🌍",
-  date: "Decmeber 12",
-  message: `My love,
-
-These next six months are going to be the hardest thing I’ve ever had to face, not because of the time itself, but because I’ll be away from you. I’m going to miss your voice, your smile, your meaness, and the way you make everything 
-around me feel lighter. I know this situation isn’t easy, and I hate that I’m putting distance between us, but I want you to know that you are the biggest thing on my mind and the deepest piece of my heart. I’m going to miss our late-night 
-talks, our laughter, the way you make me feel, and even the little moments we don’t realize are special until they’re gonna be placed on pause a bit. You give me strength, and thinking about you is what’s going to carry me through each day. 
-I’m going to miss you more than words can ever say, but I’m holding onto the love we built and the future we still have. This isn’t the end — it’s just a painful chapter I have to get through so I can come back to you better, stronger, and ready to 
-make everything right. I love you deeply, and I’ll be counting down every day until I’m back in your arms.
-
-Sincerely,
-Your awesome amazing boyfriend 
-Trevor Makau`
-  },
+  
 
 ];
