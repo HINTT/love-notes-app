@@ -275,6 +275,17 @@ Merry Christmas, my love. You are my forever gift.
 
 With all my heart ❤️`
   },
+
+  {
+    id: "17",
+    occasion: "Tester",
+    title: "Tester message",
+    emoji: "🎄",
+    date: "testers date",
+    message: `My dearest love,
+
+this is a tester message`
+  },
   // Empty slots for future messages (16-50)
   ...Array.from({ length: 35 }, (_, i) => ({
     id: String(i + 16),
