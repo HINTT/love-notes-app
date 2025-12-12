@@ -717,4 +717,75 @@ How’s your day going so far? I hope it’s treating you good.`
 
 How you feeling today? Tell me what’s been on your mind.`
 },
+  {
+  id: "62",
+  occasion: "Thinking of You",
+  title: "You Been On My Mind",
+  emoji: "💭",
+  date: "January 3",
+  message: `My dearest love,
+
+I been thinking about you nonstop today. It’s crazy how even with all this distance, you still feel like the closest thing to me. I keep replaying memories of us in my head, and every time I do, it makes me want to be better, stronger, and more focused. You don’t even realize how much strength you give me without saying a word.
+
+How’s your day been baby? I hope today was gentle on you. I hope you had at least one moment where you smiled, one moment where life didn’t feel heavy. You deserve that and more. I love you more than I can explain.`
+},
+  {
+  id: "63",
+  occasion: "Check-In",
+  title: "Just Making Sure You Okay",
+  emoji: "❤️",
+  date: "January 15",
+  message: `My dearest love,
+
+I just wanted to check on you today. Sometimes I sit here and wonder how you’re really doing — not just on the outside, but inside your heart and mind. I know you carry a lot, and even if you don’t say it, I feel it. I wish I could be there to hold you, hug you, and take some of that weight off your shoulders.
+
+How’s your day been beautiful? I hope you ate something, drank some water, and took a second to breathe. You do so much, and I’m proud of you every single day. Thank you for sticking with me.`
+},
+{
+  id: "64",
+  occasion: "Motivation",
+  title: "Keep Going Baby",
+  emoji: "✨",
+  date: "February 4",
+  message: `My dearest love,
+
+I know life gets stressful sometimes, and things don’t always feel fair or easy. But I want you to remember something — you are stronger than anything trying to break you. I’ve seen your heart, your loyalty, your fire, and I know you built for anything that comes your way. Even from here, you inspire me to keep going.
+
+How you feeling today though? I hope your week’s been good so far. Keep taking care of yourself, baby. I’m always with you, even from a distance.`
+},
+  {
+  id: "65",
+  occasion: "Missing You",
+  title: "I Miss You Heavy",
+  emoji: "💔",
+  date: "March 2",
+  message: `My dearest love,
+
+I miss you more than I can even put into words today. Some days hit harder than others, and today is one of those days. I just wish I could see you, hear your voice, or even just hold your hand for a second. You’re really my comfort, my peace, my everything.
+
+How was your day baby? I hope nothing stressed you out too much. I hope you had a moment where you laughed or felt calm. I’m counting down the days till I’m back in your arms.`
+},{
+  id: "66",
+  occasion: "Future Thoughts",
+  title: "Thinking About Us",
+  emoji: "💫",
+  date: "May 7",
+  message: `My dearest love,
+
+Today I caught myself daydreaming about our future — waking up next to you, going out together, laughing, arguing a little then making up, all of it. I want the full life with you, the real thing. I know we’ve been through a lot, but we’re still here, and that says everything about how strong our love really is.
+
+How’s your day going baby? I hope you’re okay mentally and emotionally. I’m proud of you, and I can’t wait until I’m home with you.`
+},
+  {
+  id: "67",
+  occasion: "Love Message",
+  title: "(67)You Mean the World to Me",
+  emoji: "🌍",
+  date: "April 12",
+  message: `SIIXXX-SEVEEENNN,
+
+I just want you to know how much you mean to me. You really changed my life without even trying. You make me want to be better, do better, and treat you better every single day. Everything I’m working on is for our future — I want us to win together and build something real.
+
+How’s everything been with you lately? You okay? I hope life been a little easier on you these days. I love you more than you know.`
+},
 ];
